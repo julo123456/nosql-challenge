@@ -1,4 +1,8 @@
 # nosql-challenge
-Module 12 challenge_Usage of MongoDB
+This tasks involved in the following: 
 
-NoSQL_setup_starter_v1 jupyter file combins setup and analysis both in one. Please use this file for grading. Thank you.
+1 Database and Jupyter Notebook setup after importing a dataset in .json format, followed by creating an instance of the Mongo Client.
+
+2 Update the Database by adding an additional informaiton to the collection in the database.
+
+3 Exploratory Analysis: within Pandas DataFrame, explore different criteria using queries.
